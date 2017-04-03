@@ -1,5 +1,5 @@
 {
-    "name": "simple-cas/simple-cas",
+    "name": "mda515t/simple-cas",
     "require": {
         "pear/HTTP_Request2": "*",
         "tedivm/stash": "0.12.*"
