@@ -1,13 +1,7 @@
 {
     "name": "simple-cas/simple-cas",
-    "repositories": [
-        {
-            "type": "pear",
-            "url": "http://pear.php.net"
-        }
-    ],
     "require": {
-        "pear-pear.php.net/HTTP_Request2": "*",
+        "pear/HTTP_Request2": "*",
         "tedivm/stash": "0.12.*"
     },
     "autoload": {
